@@ -53,8 +53,7 @@ project should be saved. <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111502360-2c7aa000-871c-11eb-9d27-c49dedaf83a1.png) <br/><br/>
 
 5. Finally select Tasks > application, and then right click the run task and select Run 
-‘TAB2XML [run]’. The program will now launch. <br/>
-![image](https://user-images.githubusercontent.com/76922658/111523167-55f1f680-8731-11eb-901c-cbf51bd58cd0.png) <br/><br/>
+‘TAB2XML [run]’. The program will now launch. <br/><br/>
 
 
 3.2	Eclipse
