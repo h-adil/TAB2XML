@@ -10,7 +10,7 @@ TAB2XML is a tool designed to convert musical tablature in a text format into Mu
 
 This product is able to convert tablature of following instruments: Guitar, Drum, Bass.
 
-Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use. <br/>
+Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use. <br/><br/><br/>
 
 
 
@@ -21,7 +21,7 @@ Note: Since the product has not been implemented fully, instruments that the pro
 |Available Disk Space |	50 MB|
 |RAM | 256 MB|
 |Java version | Java 15|
-|Operating System |	Windows, MacOS, any platform with gradle| <br/>
+|Operating System |	Windows, MacOS, any platform with gradle| <br/><br/><br/>
 
 
 
@@ -50,7 +50,7 @@ project should be saved. <br/>
 
 4. When the toolbar opens, click Tasks > build, and then right click “build” and the
  following dialog should pop up. Click “Run TAB2XML [build]”. <br/>
-![image](https://user-images.githubusercontent.com/76922658/111502360-2c7aa000-871c-11eb-9d27-c49dedaf83a1.png) <br/><br/>
+![image](https://user-images.githubusercontent.com/76922658/111502360-2c7aa000-871c-11eb-9d27-c49dedaf83a1.png) <br/>
 
 5. Finally select Tasks > application, and then right click the run task and select Run 
 ‘TAB2XML [run]’. The program will now launch. <br/><br/>
@@ -89,7 +89,7 @@ project should be saved. <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111523576-cbf65d80-8731-11eb-93a8-c8dff42b2a02.png) <br/>
 
 
-9. Finally, click on the run task on TAB2XML > application > run. <br/>
+9. Finally, click on the run task on TAB2XML > application > run. <br/><br/><br/>
 
 
 
@@ -156,7 +156,7 @@ If you set all of them, click save button. <br/>
 
 
 6. If you set all of them, click save button. Navigate to the location where you want to save your converted file and save it. You can also change file name (Figure 6). <br/>
-![image](https://user-images.githubusercontent.com/76922658/111522873-10352e00-8731-11eb-821c-e65ee2fecd32.png) <br/><br/>
+![image](https://user-images.githubusercontent.com/76922658/111522873-10352e00-8731-11eb-821c-e65ee2fecd32.png) <br/><br/><br/>
 
 
 
