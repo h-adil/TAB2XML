@@ -10,7 +10,7 @@ TAB2XML is a tool designed to convert musical tablature in a text format into Mu
 
 This product is able to convert tablature of following instruments: Guitar, Drum, Bass.
 
-Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use. <br/><br/><br/>
+Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use. <br/><br/>
 
 
 
