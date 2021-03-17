@@ -75,7 +75,7 @@ project should be saved. <br/>
 
 
 5. Now we have imported the project onto our local device, we want import it again as a Gradle project. Repeat step 1. When you get to the view shown in step 2, instead of clicking projects from Git, click Existing Gradle project. Proceed till you come to this page. <br/>
-![image](https://user-images.githubusercontent.com/76922658/111523542-be40d800-8731-11eb-86ab-5ec1ee6aa559.png) <br/><br/>
+![image](https://user-images.githubusercontent.com/76922658/111523542-be40d800-8731-11eb-86ab-5ec1ee6aa559.png) <br/>
 
 
 6. Specify the path of the Git project you cloned in the previous steps and click finish.
@@ -86,7 +86,7 @@ project should be saved. <br/>
 
 
 8. Double click on the Gradle “build” task at TAB2XML > build > build. <br/>
-![image](https://user-images.githubusercontent.com/76922658/111523576-cbf65d80-8731-11eb-93a8-c8dff42b2a02.png) <br/><br/>
+![image](https://user-images.githubusercontent.com/76922658/111523576-cbf65d80-8731-11eb-93a8-c8dff42b2a02.png) <br/>
 
 
 9. Finally, click on the run task on TAB2XML > application > run. <br/>
@@ -128,7 +128,7 @@ Note: When you load your file (not copying and paste), there may not be highligh
 tablature. Blue highlight outside tablature can be ignored. <br/>
 
 
-How to fix: <br/>
+How to fix: 
 - Be sure the number of lines of instrument is right. <br/>
 - Remove all unrecognizable notations in tablature and replace with dash ‘-’. <br/>
 - Remove all texts which is placed around score bars except for key notation. <br/>
@@ -143,9 +143,9 @@ Note: If you removed all yellow and red highlight, it is ready to be converted.
 ![image](https://user-images.githubusercontent.com/76922658/111522744-f3005f80-8730-11eb-95c5-b281eef210b1.png) <br/><br/>
 
 
-Title – You can set the title of song.
-Artist – You can set the artist name.
-Conversion Method – You can choose your score type. Piano or Tablature type.
+Title – You can set the title of song. <br/>
+Artist – You can set the artist name. <br/>
+Conversion Method – You can choose your score type. Piano or Tablature type. <br/>
 File Name – You can name your file. <br/>
 
 
