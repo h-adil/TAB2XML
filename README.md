@@ -21,8 +21,7 @@ Note: Since the product has not been implemented fully, instruments that the pro
 |Available Disk Space |	50 MB|
 |RAM | 256 MB|
 |Java version | Java 15|
-|Operating System |	Windows, MacOS, any platform with gradle| 
-<br/><br/><br/>
+|Operating System |	Windows, MacOS, any platform with gradle|. <br/><br/><br/>
 
 
 
