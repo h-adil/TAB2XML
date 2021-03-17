@@ -10,10 +10,10 @@ TAB2XML is a tool designed to convert musical tablature in a text format into Mu
 
 This product is able to convert tablature of following instruments: Guitar, Drum, Bass.
 
-Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use.
+Note: Since the product has not been implemented fully, instruments that the product can convert are limited, as of now. Reference How to Use. <br/>
 
 
-<br/>
+
 ## 2. System Requirements
 
 |     |           |
@@ -21,10 +21,10 @@ Note: Since the product has not been implemented fully, instruments that the pro
 |Available Disk Space |	50 MB|
 |RAM | 256 MB|
 |Java version | Java 15|
-|Operating System |	Windows, MacOS, any platform with gradle|
+|Operating System |	Windows, MacOS, any platform with gradle| <br/>
 
 
-<br/>
+
 ## 3. Installing TAB2XML using Gradle
 
 TAB2XML is built as a Gradle project and thus should work on any IDE of your choice. 
@@ -41,9 +41,11 @@ Version Control. <br/>
 2. This will direct you to a window which prompts you to enter a repository URL. Enter the
 link https://github.com/Stan15/TAB2XML as the URL, and select a directory where the 
 project should be saved. <br/>
+![image](https://user-images.githubusercontent.com/76922658/111525193-b124e880-8733-11eb-9a1d-048f1a0a584b.png) <br/><br/>
 
 
 3. Once the project opens, click the Gradle toolbar on the right side of your screen. <br/>
+![image](https://user-images.githubusercontent.com/76922658/111525232-bb46e700-8733-11eb-8767-fe31c30b2e6b.png) <br/><br/>
 
 
 4. When the toolbar opens, click Tasks > build, and then right click “build” and the
@@ -79,6 +81,7 @@ project should be saved. <br/>
 
 6. Specify the path of the Git project you cloned in the previous steps and click finish.
 
+
 7. Click on the “Gradle tasks” icon on the right of your screen <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111503414-1f11e580-871d-11eb-8442-2bb2fd6f0ed7.png) <br/><br/>
 
@@ -87,10 +90,10 @@ project should be saved. <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111523576-cbf65d80-8731-11eb-93a8-c8dff42b2a02.png) <br/><br/>
 
 
-9. Finally, click on the run task on TAB2XML > application > run.
+9. Finally, click on the run task on TAB2XML > application > run. <br/>
 
 
-<br/>
+
 ## 4. How to use TAB2XML
 
 1.	When you run the program, you will be able to see a text field at the center of screen 
@@ -98,12 +101,12 @@ project should be saved. <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111504953-7ebcc080-871e-11eb-8ea8-e1050bb83932.png) <br/><br/>
 
 
-2. To put your input, click file-open and choose your file, or copy and paste your text file in text field.
+2. To put your input, click file-open and choose your file, or copy and paste your text file in text field. <br/>
 
-<br/>
-3. Once you put your text input, system tells which information is not able to be recognized and which information should be fixed for appropriate converting. It shows message when the mouse pointer hovers over it.
 
-<br/>
+3. Once you put your text input, system tells which information is not able to be recognized and which information should be fixed for appropriate converting. It shows message when the mouse pointer hovers over it. <br/>
+
+
 -	Blue highlight: “This text can’t be understood.” (Figure 2). <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111505030-92682700-871e-11eb-8958-36007991c9d5.png) <br/><br/>
 
@@ -119,13 +122,13 @@ project should be saved. <br/>
 Note: Notations which program can support are limited, as of now. It will be updated gradually.
 
 
-Note: When you load your file (not copying and paste), there may not be highlights. It will be updated.
+Note: When you load your file (not copying and paste), there may not be highlights. It will be updated. <br/>
 
-<br/>
+
 4. For proper expected result, just be sure if there is no yellow highlight in your guitar 
-tablature. Blue highlight outside tablature can be ignored.
+tablature. Blue highlight outside tablature can be ignored. <br/>
 
-<br/>
+
 How to fix: <br/>
 - Be sure the number of lines of instrument is right. <br/>
 - Remove all unrecognizable notations in tablature and replace with dash ‘-’. <br/>
@@ -134,7 +137,7 @@ How to fix: <br/>
 
 
 Note: If you removed all yellow and red highlight, it is ready to be converted.
-(If there is no yellow and red highlight in score bars information, you can skip this step)
+(If there is no yellow and red highlight in score bars information, you can skip this step) <br/>
 
 
 5. Click the “Convert” button. This opens new window for some option (Figure5). <br/>
@@ -144,20 +147,20 @@ Note: If you removed all yellow and red highlight, it is ready to be converted.
 Title – You can set the title of song.
 Artist – You can set the artist name.
 Conversion Method – You can choose your score type. Piano or Tablature type.
-File Name – You can name your file.
+File Name – You can name your file. <br/>
 
 
 Note: All of functions has not been implemented. It will be updated gradually.
 
 
-If you set all of them, click save button.
+If you set all of them, click save button. <br/>
 
 
 6. If you set all of them, click save button. Navigate to the location where you want to save your converted file and save it. You can also change file name (Figure 6). <br/>
 ![image](https://user-images.githubusercontent.com/76922658/111522873-10352e00-8731-11eb-821c-e65ee2fecd32.png) <br/><br/>
 
 
-<br/>
+
 ## 5. Input Requirements
 
 
@@ -175,7 +178,7 @@ Some sample tablature text files that meet the below requirements can be found i
 6.	For your instructions to be recognized, the line directly below the instruction line must be a measure line or another instruction line (instruction chaining is allowed).
 7.	Lines of instructions are chained by connecting the lines by one new line.
 8.	The order of priority for applying instructions is left to right, up to down.
-9.	The default time signature is 4/4 if no time signature instruction is provided.
+9.	The default time signature is 4/4 if no time signature instruction is provided. <br/>
 
 
 Note: System does not guarantee an accurate output if measure collections do not contain blank 
